@@ -5,7 +5,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>useful</name>
-    <description>test</description>
+    <description>test thing</description>
 
     <build>
         <defaultGoal>package</defaultGoal>
